@@ -1,5 +1,5 @@
 function msgBernie() {
-    return 'Bernie';
+    return 'Bernier';
 }
 
 module.exports = msgBernie;
